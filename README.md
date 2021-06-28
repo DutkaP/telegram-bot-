@@ -1,2 +1,2 @@
-# telegram-bot-
-https://web.telegram.org/k/
+# telegram bot
+@weryweirdbot
